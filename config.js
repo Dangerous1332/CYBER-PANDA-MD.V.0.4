@@ -44,7 +44,7 @@ global.openAiAPI = "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";
 global.location = "HambanThota, Sri Lankan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
-global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
+global.vidmenu = { url: 'https://telegra.ph/file/ef6310e3e63965b1258fe.jpg' };
 global.websitex = "https://github.com/Dangerous1332/CYBER-PANDA-MD.V.0.4";
 global.lolhuman = "Sachith";
 
